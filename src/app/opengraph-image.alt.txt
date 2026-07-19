@@ -1,0 +1,1 @@
+Codex Analytics Ledger — local-only analytics for ChatGPT Codex threads, models, runtime, tokens, and API-equivalent cost.

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Analytics Ledger square launch image</title>
+  <desc id="desc">Open-source local-only analytics for ChatGPT Codex work.</desc>
+  <defs><linearGradient id="v" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10120e" stop-opacity=".28"/><stop offset=".55" stop-color="#10120e" stop-opacity=".74"/><stop offset="1" stop-color="#10120e"/></linearGradient></defs>
+  <image href="launch-background.jpg" width="1080" height="1080" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1080" height="1080" fill="url(#v)"/>
+  <image href="app-icon.svg" x="58" y="54" width="124" height="124"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="690" fill="#f1ecdf" font-size="84" font-weight="700" letter-spacing="-4">Your Codex work,</text>
+    <text x="74" y="780" fill="#f1ecdf" font-size="84" font-weight="700" letter-spacing="-4">measured locally.</text>
+    <text x="78" y="851" fill="#a3a897" font-size="28">Threads · models · runtime · tokens · cost</text>
+    <rect x="74" y="913" width="232" height="58" fill="#d7ff5f"/><text x="101" y="951" fill="#172000" font-size="19" font-weight="700" letter-spacing="1.5">OPEN SOURCE</text>
+    <text x="74" y="1027" fill="#676c5e" font-size="15">Community project · Not affiliated with or endorsed by OpenAI</text>
+  </g>
+</svg>

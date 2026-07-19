@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 144" role="img" aria-labelledby="title">
+  <title id="title">Codex Analytics Ledger</title>
+  <image href="app-icon.svg" x="0" y="0" width="144" height="144"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="171" y="67" fill="#f1ecdf" font-size="49" font-weight="700" letter-spacing="-2">Codex Analytics</text>
+    <text x="173" y="108" fill="#8e9383" font-size="22" font-weight="700" letter-spacing="6">LEDGER</text>
+  </g>
+</svg>
