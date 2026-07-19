@@ -1,8 +1,18 @@
 # Codex Analytics Ledger
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./public/brand/codex-analytics-wordmark-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./public/brand/codex-analytics-wordmark-light.png" />
+  <img src="./public/brand/codex-analytics-wordmark-light.png" alt="Codex Analytics Ledger" width="560" />
+</picture>
+
 Codex Analytics Ledger is a privacy-first, local-only dashboard for understanding
 how you use Codex: threads, models, runtime, token usage, API-equivalent cost
 estimates, and task-level details.
+
+**See where your Codex time, tokens, and money go—without sending your work
+anywhere.** Compare models, inspect individual tasks, understand active runtime,
+and estimate API-equivalent costs from one focused local dashboard.
 
 It reads Codex state on the same machine and does not call an AI model, upload
 Codex content, or send prompts to an analytics service. The included scripts also
@@ -11,6 +21,12 @@ disable Next.js telemetry and bind the server to `127.0.0.1`.
 > [!IMPORTANT]
 > This project is designed for local use. Do not expose it to a LAN or the
 > internet without authentication and an explicit data-redaction layer.
+
+![Codex Analytics Ledger launch preview](./public/brand/launch-hero.png)
+
+> [!TIP]
+> **Star this repository if you find Codex Analytics Ledger useful.** It helps
+> more Codex users discover the project and supports continued development.
 
 ## Project status
 
@@ -293,6 +309,17 @@ You are setting up Codex Analytics Ledger, a local-only Next.js analytics dashbo
 
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request. By
 participating, you agree to follow [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+
+## Brand and launch assets
+
+The repository includes the canonical application icon, multi-resolution
+favicon exports, light and dark wordmarks, GitHub social-preview artwork, and
+wide and square launch images. See the [complete brand guidelines](./public/brand/BRAND.md)
+for construction, clear space, minimum sizes, colors, typography, correct usage,
+and attribution guidance.
+
+Codex Analytics Ledger is an independent community project and is not affiliated
+with or endorsed by OpenAI. The OpenAI symbol belongs to OpenAI.
 
 ## Security
 

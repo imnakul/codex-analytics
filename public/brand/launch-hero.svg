@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Analytics Ledger launch hero</title>
+  <desc id="desc">A dark launch image showing the local-only Codex analytics product and an illustrative dashboard preview.</desc>
+  <defs>
+    <linearGradient id="overlay" x1="0" x2="1"><stop offset="0" stop-color="#10120e"/><stop offset=".58" stop-color="#10120e" stop-opacity=".88"/><stop offset="1" stop-color="#10120e" stop-opacity=".44"/></linearGradient>
+    <filter id="panelShadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#000" flood-opacity=".5"/></filter>
+  </defs>
+  <image href="launch-background.jpg" width="1600" height="900" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1600" height="900" fill="url(#overlay)"/>
+  <image href="app-icon.svg" x="78" y="72" width="98" height="98"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="90" y="247" fill="#f1ecdf" font-size="76" font-weight="700" letter-spacing="-3.6">Your work,</text>
+    <text x="90" y="325" fill="#f1ecdf" font-size="76" font-weight="700" letter-spacing="-3.6">measured.</text>
+    <text x="90" y="380" fill="#8e9383" font-size="30">No model call required.</text>
+    <text x="90" y="467" fill="#d8d4c9" font-size="25">A privacy-first, local-only dashboard for</text>
+    <text x="90" y="504" fill="#d8d4c9" font-size="25">ChatGPT Codex threads, models, time and cost.</text>
+    <rect x="90" y="567" width="224" height="54" fill="#d7ff5f"/>
+    <text x="117" y="603" fill="#172000" font-size="18" font-weight="700" letter-spacing="1.4">OPEN SOURCE</text>
+    <text x="90" y="778" fill="#676c5e" font-size="15">Community project · Not affiliated with or endorsed by OpenAI</text>
+  </g>
+  <g transform="translate(730 104) rotate(-1 390 340)" filter="url(#panelShadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="790" height="682" rx="10" fill="#10120e" stroke="#42463a" stroke-width="2"/>
+    <rect x="0" y="0" width="790" height="58" rx="10" fill="#171914"/>
+    <circle cx="24" cy="29" r="5" fill="#ff8067"/><circle cx="43" cy="29" r="5" fill="#d7ff5f"/><circle cx="62" cy="29" r="5" fill="#88bfff"/>
+    <text x="91" y="35" fill="#8e9383" font-size="12" font-weight="700" letter-spacing="2">CODEX ANALYTICS LEDGER</text>
+    <rect x="620" y="17" width="145" height="26" fill="#1c2315" stroke="#536139"/>
+    <circle cx="638" cy="30" r="4" fill="#d7ff5f"/><text x="650" y="34" fill="#d7ff5f" font-size="10" font-weight="700" letter-spacing="1">LIVE / 15S</text>
+    <text x="28" y="111" fill="#f1ecdf" font-size="36" font-weight="700" letter-spacing="-1.4">Your work, measured.</text>
+    <text x="28" y="142" fill="#6e7364" font-size="19">No model call required.</text>
+    <g transform="translate(28 179)">
+      <rect width="174" height="116" fill="#171914" stroke="#30332b"/><rect x="142" width="32" height="32" fill="#d7ff5f"/>
+      <text x="15" y="27" fill="#8e9383" font-size="9" font-weight="700" letter-spacing="1.7">VISIBLE THREADS</text><text x="15" y="70" fill="#f1ecdf" font-size="30" font-weight="700">24</text><text x="15" y="95" fill="#73786a" font-size="10">6 projects in view</text>
+      <rect x="186" width="174" height="116" fill="#171914" stroke="#30332b"/><rect x="328" width="32" height="32" fill="#88bfff"/>
+      <text x="201" y="27" fill="#8e9383" font-size="9" font-weight="700" letter-spacing="1.7">TOKEN VOLUME</text><text x="201" y="70" fill="#f1ecdf" font-size="30" font-weight="700">18.4M</text><text x="201" y="95" fill="#73786a" font-size="10">Session-reported usage</text>
+      <rect x="372" width="174" height="116" fill="#171914" stroke="#30332b"/><rect x="514" width="32" height="32" fill="#ff8067"/>
+      <text x="387" y="27" fill="#8e9383" font-size="9" font-weight="700" letter-spacing="1.7">EST. SPEND</text><text x="387" y="70" fill="#f1ecdf" font-size="30" font-weight="700">$42.80</text><text x="387" y="95" fill="#73786a" font-size="10">API-equivalent estimate</text>
+      <rect x="558" width="174" height="116" fill="#171914" stroke="#30332b"/><rect x="700" width="32" height="32" fill="#efe9dc"/>
+      <text x="573" y="27" fill="#8e9383" font-size="9" font-weight="700" letter-spacing="1.7">ACTIVE RUNTIME</text><text x="573" y="70" fill="#f1ecdf" font-size="27" font-weight="700">13h 27m</text><text x="573" y="95" fill="#73786a" font-size="10">Reported active turns</text>
+    </g>
+    <g transform="translate(28 319)">
+      <text x="0" y="14" fill="#757a6b" font-size="9" font-weight="700" letter-spacing="1.8">THREAD LEDGER</text>
+      <rect x="0" y="31" width="492" height="286" fill="#151711" stroke="#30332b"/>
+      <g fill="#8e9383" font-size="9" font-weight="700" letter-spacing="1"><text x="16" y="57">THREAD</text><text x="273" y="57">MODEL</text><text x="374" y="57">TOKENS</text><text x="438" y="57">COST</text></g>
+      <path d="M0 70h492M0 124h492M0 178h492M0 232h492" stroke="#292c25"/>
+      <g font-size="11"><text x="16" y="101" fill="#e5e0d4">Review current changes</text><text x="273" y="101" fill="#a9d1ff">5.6 Sol</text><text x="374" y="101" fill="#c9c5b9">2.8M</text><text x="438" y="101" fill="#d7ff5f">$8.42</text>
+      <text x="16" y="155" fill="#e5e0d4">Polish launch assets</text><text x="273" y="155" fill="#a9d1ff">5.6 Terra</text><text x="374" y="155" fill="#c9c5b9">1.9M</text><text x="438" y="155" fill="#d7ff5f">$5.11</text>
+      <text x="16" y="209" fill="#e5e0d4">Fix analytics reader</text><text x="273" y="209" fill="#a9d1ff">5.5</text><text x="374" y="209" fill="#c9c5b9">920K</text><text x="438" y="209" fill="#d7ff5f">$2.64</text>
+      <text x="16" y="263" fill="#e5e0d4">Explore pricing model</text><text x="273" y="263" fill="#a9d1ff">5.6 Terra</text><text x="374" y="263" fill="#c9c5b9">740K</text><text x="438" y="263" fill="#d7ff5f">$1.86</text></g>
+      <text x="16" y="301" fill="#5f6456" font-size="9">ILLUSTRATIVE LOCAL DATA</text>
+      <rect x="508" y="31" width="224" height="286" fill="#171914" stroke="#30332b"/>
+      <text x="524" y="58" fill="#d7ff5f" font-size="9" font-weight="700" letter-spacing="1.5">COMPARATIVE SIGNAL</text><text x="524" y="86" fill="#f1ecdf" font-size="19" font-weight="700">Model performance</text>
+      <g font-size="10"><text x="524" y="127" fill="#f1ecdf">5.6 Sol / high</text><text x="686" y="127" fill="#d7ff5f">$0.41</text><path d="M524 141h180" stroke="#35382f"/><rect x="524" y="151" width="157" height="4" fill="#d7ff5f"/>
+      <text x="524" y="190" fill="#f1ecdf">5.6 Terra / med</text><text x="686" y="190" fill="#d7ff5f">$0.28</text><path d="M524 204h180" stroke="#35382f"/><rect x="524" y="214" width="126" height="4" fill="#88bfff"/>
+      <text x="524" y="253" fill="#f1ecdf">5.5 / high</text><text x="686" y="253" fill="#d7ff5f">$0.19</text><path d="M524 267h180" stroke="#35382f"/><rect x="524" y="277" width="88" height="4" fill="#ff8067"/></g>
+    </g>
+  </g>
+</svg>
