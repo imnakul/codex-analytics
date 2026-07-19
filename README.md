@@ -26,6 +26,18 @@ disable Next.js telemetry and bind the server to `127.0.0.1`.
 > **Star this repository if you find Codex Analytics Ledger useful.** It helps
 > more Codex users discover the project and supports continued development.
 
+## Product preview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./public/brand/dashboard-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./public/brand/dashboard-light.png" />
+  <img src="./public/brand/dashboard-light.png" alt="Codex Analytics Ledger dashboard showing thread, token, cost, runtime, filter, and model-performance analytics" width="1400" />
+</picture>
+
+The dashboard supports light and dark themes, project grouping, focused filters,
+thread-level inspection, and comparative model-performance signals. GitHub shows
+the preview matching your current color scheme.
+
 ## Project status
 
 Codex Analytics Ledger is pre-1.0 software. It reads internal Codex SQLite and
