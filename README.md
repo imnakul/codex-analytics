@@ -1,5 +1,3 @@
-# Codex Analytics Ledger
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./public/brand/codex-analytics-wordmark-dark.png" />
   <source media="(prefers-color-scheme: light)" srcset="./public/brand/codex-analytics-wordmark-light.png" />
